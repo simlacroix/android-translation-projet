@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="connexion_error">Connexion error</string>
+    <string name="wrong_credentials">Wrong credentials</string>
+    <string name="clear_history">Do you want to clear the translation history?</string>
+    <string name="cancel">Cancel</string>
+    <string name="account_log_in">Account/Log in</string>
+    <string name="source_language">Source language</string>
+    <string name="target_language">Target Language</string>
+    <string name="translate">Translate</string>
+    <string name="ok">OK</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="auto">Auto</string>
+    <string name="show_history">Show history</string>
+    <string name="unlock_history">Create an account to unlock translation history</string>
+    <string name="source">Source</string>
+    <string name="translated">Translated</string>
+    <string name="log_out">Log out</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_account">Already have an account?</string>
+    <string name="log_in_account">Log in to your account</string>
+    <string name="email">Email</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="create_account">Create account</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="scan_error">Error Scanning Text</string>
+    <string name="ask_translate">Do you want to translate?</string>
+    <string name="detected_text">Detected Text</string>
+</resources>
